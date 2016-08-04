@@ -13,3 +13,5 @@ Simple Arduino sketch to check [Grbl](https://github.com/grbl/grbl) external con
   - Step pulse
   - Spindle Enable/PWM
   - Spindle Direction
+
+Refer to [Connecting-Grbl](https://github.com/grbl/grbl/wiki/Connecting-Grbl) for connection details
